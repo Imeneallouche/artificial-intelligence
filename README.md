@@ -4,3 +4,5 @@
 <h4 align="center">Therefore, I will provide to you a walkthrough of the AI-driven system design workflow and I will outline the basic steps of the AI workflow.</h4>
 
 ![Screenshot_20221117_102832](https://user-images.githubusercontent.com/89279264/202563852-35a20df8-c5b8-4f69-a1b4-3467f72cad22.png)
+
+<img align="center" src="https://miro.medium.com/max/1200/1*ioZ200iYyX-QJfOLs17gow.jpeg">
