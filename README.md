@@ -5,4 +5,4 @@
 
 ![Screenshot_20221117_102832](https://user-images.githubusercontent.com/89279264/202563852-35a20df8-c5b8-4f69-a1b4-3467f72cad22.png)
 
-<img align="center" src="https://miro.medium.com/max/1200/1*ioZ200iYyX-QJfOLs17gow.jpeg">
+<div align="center"><img src="https://www.fireblazeaischool.in/blogs/wp-content/uploads/2020/05/Blog-content_page-0001-1-768x397-1.jpg"></div>
