@@ -19,3 +19,4 @@ there are 6 criteria that we should check for to validate the quality of a datas
 - completeness
 - consistency
 - uniformity
+- timeliness
