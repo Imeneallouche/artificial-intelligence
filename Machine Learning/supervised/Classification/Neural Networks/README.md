@@ -28,4 +28,4 @@ Neural networks (NN) are universal function approximaters so that means neural n
 <img width="48%" align="right" src="https://user-images.githubusercontent.com/89279264/209476370-b7580866-4e9c-42a2-91df-34749f8e1ab2.png">
 </h2>
 <br><br><br><br>
-<h2><a href="">Compiling and Trainingthe model</a><h2>
+<h2><a href="">Compiling,Training, predicting and evaluating the model</a><h2>
