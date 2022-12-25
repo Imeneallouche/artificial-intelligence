@@ -11,3 +11,12 @@
 <a href="https://towardsdatascience.com/the-ultimate-guide-to-data-cleaning-3969843991d4">4- Ultimate guide to Data Cleaning</a>
 
 
+<h1 align="center"> DATA QUALITY TESTING</h1>
+
+there are 6 criteria that we should check for to validate the quality of a dataset
+- validity
+- accuracy
+- completeness
+- consistency
+- uniformity
+- timeliness
